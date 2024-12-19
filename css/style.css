@@ -7,10 +7,6 @@ body {
   overflow-x: hidden;
 }
 
-
-
-
-
 header {
   width: 100%;
 
@@ -94,18 +90,17 @@ main {
 
 .swiper-wrapper {
   position: relative;
-
 }
 
 .swiper-button-prev {
   top: 100px;
   position: absolute;
-  background: url('../img/메인슬라이드/test_left.png') no-repeat;
+  background: url("../img/메인슬라이드/test_left.png") no-repeat;
   background-size: 100%;
 }
 
 .swiper-button-next {
-  background: url('../img/메인슬라이드/test_right.png') no-repeat;
+  background: url("../img/메인슬라이드/test_right.png") no-repeat;
   background-size: 100%;
 }
 
